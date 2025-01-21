@@ -10,5 +10,5 @@
 
 ## Theses 
 
-* Master's Thesis (ongoing): Offset-value Coding in Insertion~sort, Quicksort and Heapsort
+* Master's Thesis (ongoing): Offset-value Coding in Insertion sort, Quicksort and Heapsort
 * Bachelor's Thesis (2019): Design and Implementation of an iPhone Application to Determine the Parking Position of a Car by Trajectory Analysis [Download](./theses/2019_bachelor_thesis_beckermann.pdf)
